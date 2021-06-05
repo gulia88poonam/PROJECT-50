@@ -1,0 +1,20 @@
+.header{
+    background-color:rgb(124, 252, 0);
+    display: flex;
+    justify-content: space-between;
+
+}
+.img1{
+    background-color: darkcyan;
+   border: solid;
+}
+.img2{
+    
+    background-color: chartreuse;
+   border: solid; 
+   align-self: flex-end;
+ }
+.Items{
+   display: flex;
+    align-content: center;
+}
